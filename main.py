@@ -1,5 +1,5 @@
 # Wersja 0.0.2
-# Zmiana wykonana na serwerze
+# Wersja zmodyfikowana LOKALNIE
 
 try:
     print("Program csvmover działa poprawnie")
