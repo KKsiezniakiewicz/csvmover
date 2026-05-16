@@ -1,4 +1,5 @@
 # Wersja zmodyfikowana na SERWERZE
+# Wersja 0.0.3
 
 try:
     print("Program działa poprawnie")
